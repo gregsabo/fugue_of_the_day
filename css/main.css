@@ -1,0 +1,48 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+html {
+  background-image: linear-gradient(rgb(67, 89, 171), #07123E);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-size: 28px;
+  color: white;
+  text-align: center;
+  background: none;
+}
+
+h1, h2, h3, body {
+  font-weight: 200;
+}
+
+.work, .movement {
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
